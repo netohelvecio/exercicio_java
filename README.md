@@ -1,1 +1,1 @@
-"# exercicio_java" 
+Exercicio em Java POO.
